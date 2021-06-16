@@ -1,21 +1,24 @@
 // import logo from './logo.svg';
 import './App.css';
-import Principal from './Components/Principal.jsx';
-import Informacion from './Components/Informacion.jsx';
-import Estudios from './Components/Estudios.jsx';
-import Experiencia from './Components/Experiencia.jsx';
-import Habilidades from './Components/Habilidades.jsx';
+import { BrowserRouter as Router , Switch, Route } from 'react-router-dom';
+import Princi from './Pages/Princi/Princi.jsx';
+import Info from './Pages/Info/Info.jsx';
+import Estu from './Pages/Estu/Estu.jsx';
+import Expe from './Pages/Expe/Expe.jsx';
+import Habi from './Pages/Habi/Habi.jsx';
 
 function App() {
-  return (
-    <div className="App">
-    <Principal/>
-    <Informacion/>
-    <Estudios/>
-    <Experiencia/>
-    <Habilidades/>
-    </div>
-  );
+	return(
+	 <Router> 
+	   <Switch>
+	    <Route path="/" exact component={Princi} />
+	    <Route path="/Info" exact component={Info} />
+	    <Route path="/Estu" exact component={Estu} />
+	    <Route path="/Expe" exact component={Expe} />
+	    <Route path="/Habi" exact component={Habi} />
+	   </Switch>
+	  </Router>   
+    );
 }
-
+ 
 export default App;

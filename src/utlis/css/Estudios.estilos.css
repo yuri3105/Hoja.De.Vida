@@ -49,17 +49,26 @@
 .Estudios {
    display: block;
    position: absolute;
-   width: 950px;
+   width: 717px;
 /*   height: 218;*/
-   margin-top: 380px;
-   margin-left: 5%;
-   text-align: justify;
+   margin-top: 290px;
+   margin-left: 15%;
 }
+
+ .Estudios button{
+    width: 118px;
+    height: 35px;
+    color: black;
+    margin: auto;
+    background-color: #0C4477;
+    border-radius:20%;
+    font-size: 20px;
+    }
 
 .Estudios p{
     font-family: serif;
     margin-left: 15px;
-    font-size: 25px;
-    margin: 5px;
+    font-size: 28px;
+    margin: 10px;
     text-align: justify;
 }

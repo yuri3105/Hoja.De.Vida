@@ -45,3 +45,10 @@
     height: 55%;
     border-radius: 100%;
 }
+.Principal{
+   display: block;
+   position: absolute;
+   width: 900px;
+   margin-top: 290px;
+   margin-left: 8.5%;
+}

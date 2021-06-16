@@ -27,7 +27,7 @@
 .ContainerText p{
     font-family: serif;
     font-size: 22px;
-    margin: 5px;
+    margin: 10px;
     text-align: justify;
 }
 
@@ -59,13 +59,13 @@
    align-content: center;
 }
  .Habilidades button{
-  width: 118px;
-  height: 35px;
-  color: black;
-  margin: auto;
-  background-color: #0C4477;
-   border-radius:20%;
-   font-size: 20px;
+    width: 118px;
+    height: 35px;
+    color: black;
+    margin: auto;
+    background-color: #0C4477;
+    border-radius:20%;
+    font-size: 20px;
  }
 .Habilidades p{
     font-family: serif;
