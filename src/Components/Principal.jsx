@@ -26,9 +26,7 @@ const Principal = () => {
                 <Link to="/Info">
                   <button className="botones1" type="button">INFORMACION</button>
                 </Link>
-                </p>
-
-                 <p id="containerBotones1">
+            
                 <Link to="/Estu">
                   <button className="botones1" type="button">ESTUDIOS</button>
                 </Link>
@@ -36,13 +34,11 @@ const Principal = () => {
 
                  <p id="containerBotones1">
                 <Link to="/Expe">
-                  <button className="botones1" type="button">EXPERIENCIA</button>
+                  <button className="botones2" type="button">EXPERIENCIA</button>
                 </Link>
-                </p>
-
-                 <p id="containerBotones1">
+                
                 <Link to="/Habi">
-                  <button className="botones1" type="button">HABILIDADES</button>
+                  <button className="botones2" type="button">HABILIDADES</button>
                 </Link>
                 </p>
             </div>
