@@ -2,8 +2,8 @@
     width: 1130px;
     height: 585px;
     display: flex;
-    border: 5px solid #20262d;
-    background-color: #cdd1da;
+    border: 2.5px solid #20262d;
+    background-image: url(../Img/A4.jpg);
     justify-content: space-between;
     color: black ;
     margin-top: 50px;
@@ -47,7 +47,7 @@
 }
 
 .Estudios {
-   display: block;
+   display: grid;
    position: absolute;
    width: 717px;
 /*   height: 218;*/
@@ -60,8 +60,9 @@
     height: 35px;
     color: black;
     margin: auto;
-    background-color: #0C4477;
-    border-radius:20%;
+    background: rgb(228,100,100);
+    background: linear-gradient(108deg, rgba(228,100,100,0.4430147058823529) 0%, rgba(90,161,184,0.5886729691876751) 50%, rgba(196,196,196,0.45702030812324934) 100%);
+    border-radius:15px;
     font-size: 20px;
     }
 

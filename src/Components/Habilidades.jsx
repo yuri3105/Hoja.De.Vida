@@ -26,17 +26,17 @@ const Habilidades = () => {
 
             <button> Habilidades </button>
 
-            <p>Visualización:
+            <p>☆ Visualización:
             Imaginar posibles soluciones
             o alternativas para un 
             problema o situación</p>
 
-            <p>Convencional;
+            <p>☆ Convencional;
             Organización de información, 
             elaboración y seguimiento de 
             procedimientos y reglas.</p>
 
-            <p>Gestión de proyectos:
+            <p>☆ Gestión de proyectos:
             Organización y administración 
             de recursos para cumplir 
             con un objetivo o meta</p>

@@ -34,11 +34,11 @@ const Principal = () => {
 
                  <p id="containerBotones1">
                 <Link to="/Expe">
-                  <button className="botones2" type="button">EXPERIENCIA</button>
+                  <button className="botones1" type="button">EXPERIENCIA</button>
                 </Link>
                 
                 <Link to="/Habi">
-                  <button className="botones2" type="button">HABILIDADES</button>
+                  <button className="botones1" type="button">HABILIDADES</button>
                 </Link>
                 </p>
             </div>

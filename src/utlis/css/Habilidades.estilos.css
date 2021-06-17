@@ -3,7 +3,7 @@
     height: 585px;
     display: flex;
     border: 5px solid #20262d;
-    background-color: #cdd1da;
+    background-image: url(../Img/A4.jpg);
     justify-content: space-between;
     color: black ;
     margin-top: 50px;
@@ -47,13 +47,12 @@
 }
 
 .Habilidades {
-   display: flex;
+   display: grid;
    flex-direction: column;
    position: absolute;
-   width: 950px;
-/*   height: 218;*/
-   margin-top: 290px;
-   margin-left: 7%;
+   width: 600px;
+   margin-top: 292px;
+   margin-left: 22%;
    text-align: justify;
    justify-content: center;
    align-content: center;
@@ -63,8 +62,9 @@
     height: 35px;
     color: black;
     margin: auto;
-    background-color: #0C4477;
-    border-radius:20%;
+    background: rgb(228,100,100);
+    background: linear-gradient(108deg, rgba(228,100,100,0.4430147058823529) 0%, rgba(90,161,184,0.5886729691876751) 50%, rgba(196,196,196,0.45702030812324934) 100%);
+    border-radius: 15px;
     font-size: 20px;
  }
 .Habilidades p{
