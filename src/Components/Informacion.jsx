@@ -27,15 +27,14 @@ const Informacion = () => {
             <p>Tengo 20 años, Vivo en Bogotá, Colombia. 
                 Actualmente soy estudiante de
                 Frontend en el instituto
-                Kuepa , estoy en busca de un lugar 
-                donde hacer mis practicas.</p>
+                Kuepa.</p>
+
                 <p>Me considero una persona 
                 creativa, amable, 
-                respondable y perfecionista.
+                responsable y honesta.
                 Tengo conocimientos basicos 
-                en HTML5, CSS
-                y JavaScript, junto con librerias como React, 
-                en electronica y robotica</p>
+                en electronica, robotica, HTML5, CSS
+                y JavaScript, junto con librerias como React.</p>
             </div>
         </div>
 

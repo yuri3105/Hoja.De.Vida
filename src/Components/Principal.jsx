@@ -34,7 +34,7 @@ const Principal = () => {
 
                  <p id="containerBotones1">
                 <Link to="/Expe">
-                  <button className="botones1" type="button">EXPERIENCIA</button>
+                  <button className="botones1" type="button">EXPERIENCIAS</button>
                 </Link>
                 
                 <Link to="/Habi">

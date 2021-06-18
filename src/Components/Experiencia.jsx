@@ -23,7 +23,7 @@ const Experiencia = () => {
 
             <div className="Experiencia">
 
-            <button> Experiencia </button>
+            <button> Experiencias </button>
 
             <p>Experiencia en trabajos:
             Solo eh trabajado en puestos informales de ropa deportiva, almacen de calzado y comidas rapidas.</p>

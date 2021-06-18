@@ -25,10 +25,10 @@ const Estudios = () => {
 
             <button> Estudios </button>
 
-            <p>Bachilerato: 2019, Colegio Saludcoop Sur I.E.D
+            <p>Bachillerato: 2019 - Colegio Saludcoop Sur I.E.D
             Certificado en electronica y robotica, Colegio Saludcoop Sur I.E.D
-            Certificado en ingles, cengua castellana, matematicas
-            y proyecto de vida, Univercidad Distrital.</p>
+            Certificado en ingles, lengua castellana, matematicas
+            y proyecto de vida - Univercidad Distrital.</p>
             </div>
 
         </div>
