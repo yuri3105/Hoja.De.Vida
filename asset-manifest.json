@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cv-yuriherrera/static/css/main.22ba2581.chunk.css",
+    "main.js": "/cv-yuriherrera/static/js/main.970f9890.chunk.js",
+    "main.js.map": "/cv-yuriherrera/static/js/main.970f9890.chunk.js.map",
+    "runtime-main.js": "/cv-yuriherrera/static/js/runtime-main.94600da3.js",
+    "runtime-main.js.map": "/cv-yuriherrera/static/js/runtime-main.94600da3.js.map",
+    "static/js/2.26028939.chunk.js": "/cv-yuriherrera/static/js/2.26028939.chunk.js",
+    "static/js/2.26028939.chunk.js.map": "/cv-yuriherrera/static/js/2.26028939.chunk.js.map",
+    "index.html": "/cv-yuriherrera/index.html",
+    "static/css/main.22ba2581.chunk.css.map": "/cv-yuriherrera/static/css/main.22ba2581.chunk.css.map",
+    "static/js/2.26028939.chunk.js.LICENSE.txt": "/cv-yuriherrera/static/js/2.26028939.chunk.js.LICENSE.txt",
+    "static/media/A2.00a7b704.jpg": "/cv-yuriherrera/static/media/A2.00a7b704.jpg",
+    "static/media/Habilidades.estilos.css": "/cv-yuriherrera/static/media/A4.521bee6c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94600da3.js",
+    "static/js/2.26028939.chunk.js",
+    "static/css/main.22ba2581.chunk.css",
+    "static/js/main.970f9890.chunk.js"
+  ]
+}
